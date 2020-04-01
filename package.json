@@ -1,0 +1,14 @@
+{
+  "name": "no-floating-promises-bug",
+  "version": "1.0.0",
+  "description": "Reproduce PHPStorm bug that prevents no-floating-promises tslint rule violations from being shown by the IDE.",
+  "main": "index.js",
+  "repository": "git@github.com:/rulatir/no-floating-promises-bug.git",
+  "author": "Szczepan Hołyszewski <rulatir@wp.pl>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "tslint": "^6.1.0",
+    "typescript": "^3.8.3"
+  }
+}
